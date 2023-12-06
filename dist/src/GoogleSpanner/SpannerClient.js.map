@@ -1,0 +1,1 @@
+{"version":3,"file":"SpannerClient.js","sourceRoot":"","sources":["../../../src/GoogleSpanner/SpannerClient.ts"],"names":[],"mappings":";;;AAEA,MAAa,aAAa;IACd,GAAG,CAAa;IAExB,YAAY,GAAe;QACvB,IAAI,CAAC,GAAG,GAAG,GAAG,CAAC;IACnB,CAAC;IACD,gBAAgB,CAAC,IAAY;IAC7B,CAAC;CACJ;AARD,sCAQC"}
