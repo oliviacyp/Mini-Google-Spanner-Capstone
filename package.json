@@ -2,8 +2,6 @@
   "name": "mini-google-spanner-capstone",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/oliviacyp/Mini-Google-Spanner-Capstone.git",
-  "author": "oliviacyp <oliviaxpang@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">= 18 < 19"
